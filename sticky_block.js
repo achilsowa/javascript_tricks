@@ -41,3 +41,4 @@ function stickyBlock ($scope, $element, attrs) {
         $(window).unbind('resize', relocate);
     });
 }
+
